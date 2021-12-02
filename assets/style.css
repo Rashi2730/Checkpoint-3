@@ -862,6 +862,7 @@ input::placeholder, textarea::placeholder {
     top: 10px;
     left: 10px;
     color: rgb(185, 180, 180);
+    font-family: 'Poppins', sans-serif;
 }
 .form button {
     border: 1px solid #fd656b;
